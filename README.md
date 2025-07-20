@@ -37,3 +37,11 @@
 ```bash
 git clone https://github.com/225Sumit/ShopNow.git
 cd ShopNow
+
+## 🙋‍♂️ Author
+
+**Sumit Gupta**  
+📍 Kanpur, Uttar Pradesh, India  
+📧 225sumitgupta@gmail.com  
+💼 [LinkedIn] (https://www.linkedin.com/in/sumit-gupta-97338723b/ )
+📂 [GitHub](https://github.com/225Sumit)
